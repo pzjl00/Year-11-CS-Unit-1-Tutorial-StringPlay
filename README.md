@@ -10,3 +10,5 @@ System.out.print(insertValueThatYouWishToPrintHere) to print on the same line.
 System.out.println(insertValueThatYouWishToPrintHere) to print on different lines.
 
 In intelliJ, a neat shortcut for the print statement is to type “sout” and press enter.
+
+Name: Phoebe
